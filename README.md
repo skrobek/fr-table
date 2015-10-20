@@ -1,6 +1,4 @@
-# React Starter
-
-This is a starter for React.js based applications. Build system is working on the top of webpack builder. All files can be written in ES6 and will be transformed using babel.js. For the development there is a webpack developer server with react-hot-loader module, which makes live update to you app. See below for what's inside project.
+# FR Live Table
 
 ## What's included
 * [Webpack](https://webpack.github.io/)
