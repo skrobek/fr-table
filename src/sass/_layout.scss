@@ -1,0 +1,16 @@
+.content {
+  padding-top: 100px;
+
+  .season-end > tbody > tr:first-child > td {
+    background-color: #FFFFBC;
+    font-weight: bold;
+
+    &:first-child:after {
+      content: "\f091";
+      font-family: FontAwesome;
+      color: gold;
+      position: relative;
+      left: 10px;
+    }
+  }
+}
