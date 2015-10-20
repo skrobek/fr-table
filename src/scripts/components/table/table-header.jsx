@@ -1,5 +1,6 @@
 import React from "react";
 
+
 class TableHeader extends React.Component {
   render() {
     return(
@@ -14,7 +15,7 @@ class TableHeader extends React.Component {
           <th>Goals For</th>
           <th>Goals Against</th>
           <th>Goals Difference</th>
-          <th><b>Points</b></th>
+          <th>Points</th>
         </tr>
       </thead>
     );

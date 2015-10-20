@@ -135,8 +135,8 @@ class TeamsStore extends EventEmitter {
   emitChange() {
     this.emit(CHANGE_EVENT);
   }
-
 }
+
 
 const teamsStore = new TeamsStore();
 

@@ -7,6 +7,7 @@ const teamActions = {
     return `${config.host}/${path}`;
   },
 
+
   loadTeams() {
     let url = this.getEndpoint('teams');
 

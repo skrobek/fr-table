@@ -16,6 +16,7 @@ class AppSockets {
     }
   }
 
+
   close() {
     this.socket.close();
   }

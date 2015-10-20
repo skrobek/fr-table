@@ -3,6 +3,7 @@ import {Grid} from "react-bootstrap";
 import AppNavbar from './layout/navbar.jsx';
 import TeamsTable from './table/table.jsx';
 
+
 class App extends React.Component {
   render() {
     return(
